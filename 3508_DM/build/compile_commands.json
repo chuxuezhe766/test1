@@ -1,0 +1,224 @@
+[
+{
+  "directory": "D:/RoboMaster/RM-CUBEMX/3508_DM/build",
+  "command": "D:\\MY_SOFT\\Toolchain\\gcc\\arm-gnu-toolchain-14.3.rel1-mingw-w64-i686-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H723xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -ID:/RoboMaster/RM-CUBEMX/3508_DM/bsp -ID:/RoboMaster/RM-CUBEMX/3508_DM/modules -ID:/RoboMaster/RM-CUBEMX/3508_DM/Core/Inc -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Inc -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/CMSIS/Device/ST/STM32H7xx/Include -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles\\3508_DM.dir\\Core\\Src\\main.c.obj -c D:\\RoboMaster\\RM-CUBEMX\\3508_DM\\Core\\Src\\main.c",
+  "file": "D:/RoboMaster/RM-CUBEMX/3508_DM/Core/Src/main.c",
+  "output": "D:/RoboMaster/RM-CUBEMX/3508_DM/build/CMakeFiles/3508_DM.dir/Core/Src/main.c.obj"
+},
+{
+  "directory": "D:/RoboMaster/RM-CUBEMX/3508_DM/build",
+  "command": "D:\\MY_SOFT\\Toolchain\\gcc\\arm-gnu-toolchain-14.3.rel1-mingw-w64-i686-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H723xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -ID:/RoboMaster/RM-CUBEMX/3508_DM/bsp -ID:/RoboMaster/RM-CUBEMX/3508_DM/modules -ID:/RoboMaster/RM-CUBEMX/3508_DM/Core/Inc -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Inc -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/CMSIS/Device/ST/STM32H7xx/Include -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles\\3508_DM.dir\\Core\\Src\\gpio.c.obj -c D:\\RoboMaster\\RM-CUBEMX\\3508_DM\\Core\\Src\\gpio.c",
+  "file": "D:/RoboMaster/RM-CUBEMX/3508_DM/Core/Src/gpio.c",
+  "output": "D:/RoboMaster/RM-CUBEMX/3508_DM/build/CMakeFiles/3508_DM.dir/Core/Src/gpio.c.obj"
+},
+{
+  "directory": "D:/RoboMaster/RM-CUBEMX/3508_DM/build",
+  "command": "D:\\MY_SOFT\\Toolchain\\gcc\\arm-gnu-toolchain-14.3.rel1-mingw-w64-i686-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H723xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -ID:/RoboMaster/RM-CUBEMX/3508_DM/bsp -ID:/RoboMaster/RM-CUBEMX/3508_DM/modules -ID:/RoboMaster/RM-CUBEMX/3508_DM/Core/Inc -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Inc -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/CMSIS/Device/ST/STM32H7xx/Include -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles\\3508_DM.dir\\Core\\Src\\fdcan.c.obj -c D:\\RoboMaster\\RM-CUBEMX\\3508_DM\\Core\\Src\\fdcan.c",
+  "file": "D:/RoboMaster/RM-CUBEMX/3508_DM/Core/Src/fdcan.c",
+  "output": "D:/RoboMaster/RM-CUBEMX/3508_DM/build/CMakeFiles/3508_DM.dir/Core/Src/fdcan.c.obj"
+},
+{
+  "directory": "D:/RoboMaster/RM-CUBEMX/3508_DM/build",
+  "command": "D:\\MY_SOFT\\Toolchain\\gcc\\arm-gnu-toolchain-14.3.rel1-mingw-w64-i686-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H723xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -ID:/RoboMaster/RM-CUBEMX/3508_DM/bsp -ID:/RoboMaster/RM-CUBEMX/3508_DM/modules -ID:/RoboMaster/RM-CUBEMX/3508_DM/Core/Inc -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Inc -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/CMSIS/Device/ST/STM32H7xx/Include -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles\\3508_DM.dir\\Core\\Src\\memorymap.c.obj -c D:\\RoboMaster\\RM-CUBEMX\\3508_DM\\Core\\Src\\memorymap.c",
+  "file": "D:/RoboMaster/RM-CUBEMX/3508_DM/Core/Src/memorymap.c",
+  "output": "D:/RoboMaster/RM-CUBEMX/3508_DM/build/CMakeFiles/3508_DM.dir/Core/Src/memorymap.c.obj"
+},
+{
+  "directory": "D:/RoboMaster/RM-CUBEMX/3508_DM/build",
+  "command": "D:\\MY_SOFT\\Toolchain\\gcc\\arm-gnu-toolchain-14.3.rel1-mingw-w64-i686-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H723xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -ID:/RoboMaster/RM-CUBEMX/3508_DM/bsp -ID:/RoboMaster/RM-CUBEMX/3508_DM/modules -ID:/RoboMaster/RM-CUBEMX/3508_DM/Core/Inc -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Inc -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/CMSIS/Device/ST/STM32H7xx/Include -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles\\3508_DM.dir\\Core\\Src\\spi.c.obj -c D:\\RoboMaster\\RM-CUBEMX\\3508_DM\\Core\\Src\\spi.c",
+  "file": "D:/RoboMaster/RM-CUBEMX/3508_DM/Core/Src/spi.c",
+  "output": "D:/RoboMaster/RM-CUBEMX/3508_DM/build/CMakeFiles/3508_DM.dir/Core/Src/spi.c.obj"
+},
+{
+  "directory": "D:/RoboMaster/RM-CUBEMX/3508_DM/build",
+  "command": "D:\\MY_SOFT\\Toolchain\\gcc\\arm-gnu-toolchain-14.3.rel1-mingw-w64-i686-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H723xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -ID:/RoboMaster/RM-CUBEMX/3508_DM/bsp -ID:/RoboMaster/RM-CUBEMX/3508_DM/modules -ID:/RoboMaster/RM-CUBEMX/3508_DM/Core/Inc -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Inc -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/CMSIS/Device/ST/STM32H7xx/Include -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles\\3508_DM.dir\\Core\\Src\\tim.c.obj -c D:\\RoboMaster\\RM-CUBEMX\\3508_DM\\Core\\Src\\tim.c",
+  "file": "D:/RoboMaster/RM-CUBEMX/3508_DM/Core/Src/tim.c",
+  "output": "D:/RoboMaster/RM-CUBEMX/3508_DM/build/CMakeFiles/3508_DM.dir/Core/Src/tim.c.obj"
+},
+{
+  "directory": "D:/RoboMaster/RM-CUBEMX/3508_DM/build",
+  "command": "D:\\MY_SOFT\\Toolchain\\gcc\\arm-gnu-toolchain-14.3.rel1-mingw-w64-i686-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H723xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -ID:/RoboMaster/RM-CUBEMX/3508_DM/bsp -ID:/RoboMaster/RM-CUBEMX/3508_DM/modules -ID:/RoboMaster/RM-CUBEMX/3508_DM/Core/Inc -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Inc -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/CMSIS/Device/ST/STM32H7xx/Include -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles\\3508_DM.dir\\Core\\Src\\stm32h7xx_it.c.obj -c D:\\RoboMaster\\RM-CUBEMX\\3508_DM\\Core\\Src\\stm32h7xx_it.c",
+  "file": "D:/RoboMaster/RM-CUBEMX/3508_DM/Core/Src/stm32h7xx_it.c",
+  "output": "D:/RoboMaster/RM-CUBEMX/3508_DM/build/CMakeFiles/3508_DM.dir/Core/Src/stm32h7xx_it.c.obj"
+},
+{
+  "directory": "D:/RoboMaster/RM-CUBEMX/3508_DM/build",
+  "command": "D:\\MY_SOFT\\Toolchain\\gcc\\arm-gnu-toolchain-14.3.rel1-mingw-w64-i686-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H723xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -ID:/RoboMaster/RM-CUBEMX/3508_DM/bsp -ID:/RoboMaster/RM-CUBEMX/3508_DM/modules -ID:/RoboMaster/RM-CUBEMX/3508_DM/Core/Inc -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Inc -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/CMSIS/Device/ST/STM32H7xx/Include -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles\\3508_DM.dir\\Core\\Src\\stm32h7xx_hal_msp.c.obj -c D:\\RoboMaster\\RM-CUBEMX\\3508_DM\\Core\\Src\\stm32h7xx_hal_msp.c",
+  "file": "D:/RoboMaster/RM-CUBEMX/3508_DM/Core/Src/stm32h7xx_hal_msp.c",
+  "output": "D:/RoboMaster/RM-CUBEMX/3508_DM/build/CMakeFiles/3508_DM.dir/Core/Src/stm32h7xx_hal_msp.c.obj"
+},
+{
+  "directory": "D:/RoboMaster/RM-CUBEMX/3508_DM/build",
+  "command": "D:\\MY_SOFT\\Toolchain\\gcc\\arm-gnu-toolchain-14.3.rel1-mingw-w64-i686-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H723xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -ID:/RoboMaster/RM-CUBEMX/3508_DM/bsp -ID:/RoboMaster/RM-CUBEMX/3508_DM/modules -ID:/RoboMaster/RM-CUBEMX/3508_DM/Core/Inc -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Inc -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/CMSIS/Device/ST/STM32H7xx/Include -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles\\3508_DM.dir\\Core\\Src\\sysmem.c.obj -c D:\\RoboMaster\\RM-CUBEMX\\3508_DM\\Core\\Src\\sysmem.c",
+  "file": "D:/RoboMaster/RM-CUBEMX/3508_DM/Core/Src/sysmem.c",
+  "output": "D:/RoboMaster/RM-CUBEMX/3508_DM/build/CMakeFiles/3508_DM.dir/Core/Src/sysmem.c.obj"
+},
+{
+  "directory": "D:/RoboMaster/RM-CUBEMX/3508_DM/build",
+  "command": "D:\\MY_SOFT\\Toolchain\\gcc\\arm-gnu-toolchain-14.3.rel1-mingw-w64-i686-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H723xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -ID:/RoboMaster/RM-CUBEMX/3508_DM/bsp -ID:/RoboMaster/RM-CUBEMX/3508_DM/modules -ID:/RoboMaster/RM-CUBEMX/3508_DM/Core/Inc -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Inc -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/CMSIS/Device/ST/STM32H7xx/Include -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles\\3508_DM.dir\\Core\\Src\\syscalls.c.obj -c D:\\RoboMaster\\RM-CUBEMX\\3508_DM\\Core\\Src\\syscalls.c",
+  "file": "D:/RoboMaster/RM-CUBEMX/3508_DM/Core/Src/syscalls.c",
+  "output": "D:/RoboMaster/RM-CUBEMX/3508_DM/build/CMakeFiles/3508_DM.dir/Core/Src/syscalls.c.obj"
+},
+{
+  "directory": "D:/RoboMaster/RM-CUBEMX/3508_DM/build",
+  "command": "D:\\MY_SOFT\\Toolchain\\gcc\\arm-gnu-toolchain-14.3.rel1-mingw-w64-i686-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H723xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -ID:/RoboMaster/RM-CUBEMX/3508_DM/bsp -ID:/RoboMaster/RM-CUBEMX/3508_DM/modules -ID:/RoboMaster/RM-CUBEMX/3508_DM/Core/Inc -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Inc -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/CMSIS/Device/ST/STM32H7xx/Include -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -x assembler-with-cpp -MMD -MP -g -o CMakeFiles\\3508_DM.dir\\startup_stm32h723xx.s.obj -c D:\\RoboMaster\\RM-CUBEMX\\3508_DM\\startup_stm32h723xx.s",
+  "file": "D:/RoboMaster/RM-CUBEMX/3508_DM/startup_stm32h723xx.s",
+  "output": "D:/RoboMaster/RM-CUBEMX/3508_DM/build/CMakeFiles/3508_DM.dir/startup_stm32h723xx.s.obj"
+},
+{
+  "directory": "D:/RoboMaster/RM-CUBEMX/3508_DM/build",
+  "command": "D:\\MY_SOFT\\Toolchain\\gcc\\arm-gnu-toolchain-14.3.rel1-mingw-w64-i686-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H723xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -ID:/RoboMaster/RM-CUBEMX/3508_DM/bsp -ID:/RoboMaster/RM-CUBEMX/3508_DM/modules -ID:/RoboMaster/RM-CUBEMX/3508_DM/Core/Inc -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Inc -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/CMSIS/Device/ST/STM32H7xx/Include -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles\\3508_DM.dir\\bsp\\bsp_can.c.obj -c D:\\RoboMaster\\RM-CUBEMX\\3508_DM\\bsp\\bsp_can.c",
+  "file": "D:/RoboMaster/RM-CUBEMX/3508_DM/bsp/bsp_can.c",
+  "output": "D:/RoboMaster/RM-CUBEMX/3508_DM/build/CMakeFiles/3508_DM.dir/bsp/bsp_can.c.obj"
+},
+{
+  "directory": "D:/RoboMaster/RM-CUBEMX/3508_DM/build",
+  "command": "D:\\MY_SOFT\\Toolchain\\gcc\\arm-gnu-toolchain-14.3.rel1-mingw-w64-i686-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H723xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -ID:/RoboMaster/RM-CUBEMX/3508_DM/bsp -ID:/RoboMaster/RM-CUBEMX/3508_DM/modules -ID:/RoboMaster/RM-CUBEMX/3508_DM/Core/Inc -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Inc -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/CMSIS/Device/ST/STM32H7xx/Include -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles\\3508_DM.dir\\bsp\\bsp_buzzer.c.obj -c D:\\RoboMaster\\RM-CUBEMX\\3508_DM\\bsp\\bsp_buzzer.c",
+  "file": "D:/RoboMaster/RM-CUBEMX/3508_DM/bsp/bsp_buzzer.c",
+  "output": "D:/RoboMaster/RM-CUBEMX/3508_DM/build/CMakeFiles/3508_DM.dir/bsp/bsp_buzzer.c.obj"
+},
+{
+  "directory": "D:/RoboMaster/RM-CUBEMX/3508_DM/build",
+  "command": "D:\\MY_SOFT\\Toolchain\\gcc\\arm-gnu-toolchain-14.3.rel1-mingw-w64-i686-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H723xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -ID:/RoboMaster/RM-CUBEMX/3508_DM/bsp -ID:/RoboMaster/RM-CUBEMX/3508_DM/modules -ID:/RoboMaster/RM-CUBEMX/3508_DM/Core/Inc -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Inc -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/CMSIS/Device/ST/STM32H7xx/Include -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles\\3508_DM.dir\\bsp\\bsp_led.c.obj -c D:\\RoboMaster\\RM-CUBEMX\\3508_DM\\bsp\\bsp_led.c",
+  "file": "D:/RoboMaster/RM-CUBEMX/3508_DM/bsp/bsp_led.c",
+  "output": "D:/RoboMaster/RM-CUBEMX/3508_DM/build/CMakeFiles/3508_DM.dir/bsp/bsp_led.c.obj"
+},
+{
+  "directory": "D:/RoboMaster/RM-CUBEMX/3508_DM/build",
+  "command": "D:\\MY_SOFT\\Toolchain\\gcc\\arm-gnu-toolchain-14.3.rel1-mingw-w64-i686-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H723xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -ID:/RoboMaster/RM-CUBEMX/3508_DM/bsp -ID:/RoboMaster/RM-CUBEMX/3508_DM/modules -ID:/RoboMaster/RM-CUBEMX/3508_DM/Core/Inc -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Inc -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/CMSIS/Device/ST/STM32H7xx/Include -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles\\3508_DM.dir\\modules\\DJI_Motor.c.obj -c D:\\RoboMaster\\RM-CUBEMX\\3508_DM\\modules\\DJI_Motor.c",
+  "file": "D:/RoboMaster/RM-CUBEMX/3508_DM/modules/DJI_Motor.c",
+  "output": "D:/RoboMaster/RM-CUBEMX/3508_DM/build/CMakeFiles/3508_DM.dir/modules/DJI_Motor.c.obj"
+},
+{
+  "directory": "D:/RoboMaster/RM-CUBEMX/3508_DM/build",
+  "command": "D:\\MY_SOFT\\Toolchain\\gcc\\arm-gnu-toolchain-14.3.rel1-mingw-w64-i686-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H723xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -ID:/RoboMaster/RM-CUBEMX/3508_DM/Core/Inc -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Inc -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/CMSIS/Device/ST/STM32H7xx/Include -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Core\\Src\\system_stm32h7xx.c.obj -c D:\\RoboMaster\\RM-CUBEMX\\3508_DM\\Core\\Src\\system_stm32h7xx.c",
+  "file": "D:/RoboMaster/RM-CUBEMX/3508_DM/Core/Src/system_stm32h7xx.c",
+  "output": "D:/RoboMaster/RM-CUBEMX/3508_DM/build/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Core/Src/system_stm32h7xx.c.obj"
+},
+{
+  "directory": "D:/RoboMaster/RM-CUBEMX/3508_DM/build",
+  "command": "D:\\MY_SOFT\\Toolchain\\gcc\\arm-gnu-toolchain-14.3.rel1-mingw-w64-i686-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H723xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -ID:/RoboMaster/RM-CUBEMX/3508_DM/Core/Inc -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Inc -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/CMSIS/Device/ST/STM32H7xx/Include -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_cortex.c.obj -c D:\\RoboMaster\\RM-CUBEMX\\3508_DM\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_cortex.c",
+  "file": "D:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c",
+  "output": "D:/RoboMaster/RM-CUBEMX/3508_DM/build/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj"
+},
+{
+  "directory": "D:/RoboMaster/RM-CUBEMX/3508_DM/build",
+  "command": "D:\\MY_SOFT\\Toolchain\\gcc\\arm-gnu-toolchain-14.3.rel1-mingw-w64-i686-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H723xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -ID:/RoboMaster/RM-CUBEMX/3508_DM/Core/Inc -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Inc -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/CMSIS/Device/ST/STM32H7xx/Include -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_rcc.c.obj -c D:\\RoboMaster\\RM-CUBEMX\\3508_DM\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_rcc.c",
+  "file": "D:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c",
+  "output": "D:/RoboMaster/RM-CUBEMX/3508_DM/build/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj"
+},
+{
+  "directory": "D:/RoboMaster/RM-CUBEMX/3508_DM/build",
+  "command": "D:\\MY_SOFT\\Toolchain\\gcc\\arm-gnu-toolchain-14.3.rel1-mingw-w64-i686-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H723xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -ID:/RoboMaster/RM-CUBEMX/3508_DM/Core/Inc -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Inc -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/CMSIS/Device/ST/STM32H7xx/Include -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_rcc_ex.c.obj -c D:\\RoboMaster\\RM-CUBEMX\\3508_DM\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_rcc_ex.c",
+  "file": "D:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c",
+  "output": "D:/RoboMaster/RM-CUBEMX/3508_DM/build/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj"
+},
+{
+  "directory": "D:/RoboMaster/RM-CUBEMX/3508_DM/build",
+  "command": "D:\\MY_SOFT\\Toolchain\\gcc\\arm-gnu-toolchain-14.3.rel1-mingw-w64-i686-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H723xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -ID:/RoboMaster/RM-CUBEMX/3508_DM/Core/Inc -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Inc -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/CMSIS/Device/ST/STM32H7xx/Include -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_flash.c.obj -c D:\\RoboMaster\\RM-CUBEMX\\3508_DM\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_flash.c",
+  "file": "D:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash.c",
+  "output": "D:/RoboMaster/RM-CUBEMX/3508_DM/build/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash.c.obj"
+},
+{
+  "directory": "D:/RoboMaster/RM-CUBEMX/3508_DM/build",
+  "command": "D:\\MY_SOFT\\Toolchain\\gcc\\arm-gnu-toolchain-14.3.rel1-mingw-w64-i686-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H723xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -ID:/RoboMaster/RM-CUBEMX/3508_DM/Core/Inc -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Inc -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/CMSIS/Device/ST/STM32H7xx/Include -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_flash_ex.c.obj -c D:\\RoboMaster\\RM-CUBEMX\\3508_DM\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_flash_ex.c",
+  "file": "D:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash_ex.c",
+  "output": "D:/RoboMaster/RM-CUBEMX/3508_DM/build/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash_ex.c.obj"
+},
+{
+  "directory": "D:/RoboMaster/RM-CUBEMX/3508_DM/build",
+  "command": "D:\\MY_SOFT\\Toolchain\\gcc\\arm-gnu-toolchain-14.3.rel1-mingw-w64-i686-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H723xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -ID:/RoboMaster/RM-CUBEMX/3508_DM/Core/Inc -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Inc -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/CMSIS/Device/ST/STM32H7xx/Include -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_gpio.c.obj -c D:\\RoboMaster\\RM-CUBEMX\\3508_DM\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_gpio.c",
+  "file": "D:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c",
+  "output": "D:/RoboMaster/RM-CUBEMX/3508_DM/build/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj"
+},
+{
+  "directory": "D:/RoboMaster/RM-CUBEMX/3508_DM/build",
+  "command": "D:\\MY_SOFT\\Toolchain\\gcc\\arm-gnu-toolchain-14.3.rel1-mingw-w64-i686-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H723xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -ID:/RoboMaster/RM-CUBEMX/3508_DM/Core/Inc -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Inc -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/CMSIS/Device/ST/STM32H7xx/Include -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_hsem.c.obj -c D:\\RoboMaster\\RM-CUBEMX\\3508_DM\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_hsem.c",
+  "file": "D:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_hsem.c",
+  "output": "D:/RoboMaster/RM-CUBEMX/3508_DM/build/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_hsem.c.obj"
+},
+{
+  "directory": "D:/RoboMaster/RM-CUBEMX/3508_DM/build",
+  "command": "D:\\MY_SOFT\\Toolchain\\gcc\\arm-gnu-toolchain-14.3.rel1-mingw-w64-i686-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H723xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -ID:/RoboMaster/RM-CUBEMX/3508_DM/Core/Inc -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Inc -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/CMSIS/Device/ST/STM32H7xx/Include -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_dma.c.obj -c D:\\RoboMaster\\RM-CUBEMX\\3508_DM\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_dma.c",
+  "file": "D:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma.c",
+  "output": "D:/RoboMaster/RM-CUBEMX/3508_DM/build/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma.c.obj"
+},
+{
+  "directory": "D:/RoboMaster/RM-CUBEMX/3508_DM/build",
+  "command": "D:\\MY_SOFT\\Toolchain\\gcc\\arm-gnu-toolchain-14.3.rel1-mingw-w64-i686-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H723xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -ID:/RoboMaster/RM-CUBEMX/3508_DM/Core/Inc -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Inc -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/CMSIS/Device/ST/STM32H7xx/Include -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_dma_ex.c.obj -c D:\\RoboMaster\\RM-CUBEMX\\3508_DM\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_dma_ex.c",
+  "file": "D:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma_ex.c",
+  "output": "D:/RoboMaster/RM-CUBEMX/3508_DM/build/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma_ex.c.obj"
+},
+{
+  "directory": "D:/RoboMaster/RM-CUBEMX/3508_DM/build",
+  "command": "D:\\MY_SOFT\\Toolchain\\gcc\\arm-gnu-toolchain-14.3.rel1-mingw-w64-i686-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H723xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -ID:/RoboMaster/RM-CUBEMX/3508_DM/Core/Inc -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Inc -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/CMSIS/Device/ST/STM32H7xx/Include -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_mdma.c.obj -c D:\\RoboMaster\\RM-CUBEMX\\3508_DM\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_mdma.c",
+  "file": "D:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_mdma.c",
+  "output": "D:/RoboMaster/RM-CUBEMX/3508_DM/build/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_mdma.c.obj"
+},
+{
+  "directory": "D:/RoboMaster/RM-CUBEMX/3508_DM/build",
+  "command": "D:\\MY_SOFT\\Toolchain\\gcc\\arm-gnu-toolchain-14.3.rel1-mingw-w64-i686-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H723xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -ID:/RoboMaster/RM-CUBEMX/3508_DM/Core/Inc -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Inc -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/CMSIS/Device/ST/STM32H7xx/Include -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_pwr.c.obj -c D:\\RoboMaster\\RM-CUBEMX\\3508_DM\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_pwr.c",
+  "file": "D:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr.c",
+  "output": "D:/RoboMaster/RM-CUBEMX/3508_DM/build/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr.c.obj"
+},
+{
+  "directory": "D:/RoboMaster/RM-CUBEMX/3508_DM/build",
+  "command": "D:\\MY_SOFT\\Toolchain\\gcc\\arm-gnu-toolchain-14.3.rel1-mingw-w64-i686-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H723xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -ID:/RoboMaster/RM-CUBEMX/3508_DM/Core/Inc -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Inc -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/CMSIS/Device/ST/STM32H7xx/Include -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_pwr_ex.c.obj -c D:\\RoboMaster\\RM-CUBEMX\\3508_DM\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_pwr_ex.c",
+  "file": "D:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c",
+  "output": "D:/RoboMaster/RM-CUBEMX/3508_DM/build/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj"
+},
+{
+  "directory": "D:/RoboMaster/RM-CUBEMX/3508_DM/build",
+  "command": "D:\\MY_SOFT\\Toolchain\\gcc\\arm-gnu-toolchain-14.3.rel1-mingw-w64-i686-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H723xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -ID:/RoboMaster/RM-CUBEMX/3508_DM/Core/Inc -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Inc -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/CMSIS/Device/ST/STM32H7xx/Include -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal.c.obj -c D:\\RoboMaster\\RM-CUBEMX\\3508_DM\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal.c",
+  "file": "D:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c",
+  "output": "D:/RoboMaster/RM-CUBEMX/3508_DM/build/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj"
+},
+{
+  "directory": "D:/RoboMaster/RM-CUBEMX/3508_DM/build",
+  "command": "D:\\MY_SOFT\\Toolchain\\gcc\\arm-gnu-toolchain-14.3.rel1-mingw-w64-i686-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H723xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -ID:/RoboMaster/RM-CUBEMX/3508_DM/Core/Inc -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Inc -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/CMSIS/Device/ST/STM32H7xx/Include -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_i2c.c.obj -c D:\\RoboMaster\\RM-CUBEMX\\3508_DM\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_i2c.c",
+  "file": "D:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c",
+  "output": "D:/RoboMaster/RM-CUBEMX/3508_DM/build/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj"
+},
+{
+  "directory": "D:/RoboMaster/RM-CUBEMX/3508_DM/build",
+  "command": "D:\\MY_SOFT\\Toolchain\\gcc\\arm-gnu-toolchain-14.3.rel1-mingw-w64-i686-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H723xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -ID:/RoboMaster/RM-CUBEMX/3508_DM/Core/Inc -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Inc -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/CMSIS/Device/ST/STM32H7xx/Include -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_i2c_ex.c.obj -c D:\\RoboMaster\\RM-CUBEMX\\3508_DM\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_i2c_ex.c",
+  "file": "D:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex.c",
+  "output": "D:/RoboMaster/RM-CUBEMX/3508_DM/build/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex.c.obj"
+},
+{
+  "directory": "D:/RoboMaster/RM-CUBEMX/3508_DM/build",
+  "command": "D:\\MY_SOFT\\Toolchain\\gcc\\arm-gnu-toolchain-14.3.rel1-mingw-w64-i686-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H723xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -ID:/RoboMaster/RM-CUBEMX/3508_DM/Core/Inc -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Inc -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/CMSIS/Device/ST/STM32H7xx/Include -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_exti.c.obj -c D:\\RoboMaster\\RM-CUBEMX\\3508_DM\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_exti.c",
+  "file": "D:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_exti.c",
+  "output": "D:/RoboMaster/RM-CUBEMX/3508_DM/build/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_exti.c.obj"
+},
+{
+  "directory": "D:/RoboMaster/RM-CUBEMX/3508_DM/build",
+  "command": "D:\\MY_SOFT\\Toolchain\\gcc\\arm-gnu-toolchain-14.3.rel1-mingw-w64-i686-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H723xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -ID:/RoboMaster/RM-CUBEMX/3508_DM/Core/Inc -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Inc -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/CMSIS/Device/ST/STM32H7xx/Include -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_fdcan.c.obj -c D:\\RoboMaster\\RM-CUBEMX\\3508_DM\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_fdcan.c",
+  "file": "D:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_fdcan.c",
+  "output": "D:/RoboMaster/RM-CUBEMX/3508_DM/build/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_fdcan.c.obj"
+},
+{
+  "directory": "D:/RoboMaster/RM-CUBEMX/3508_DM/build",
+  "command": "D:\\MY_SOFT\\Toolchain\\gcc\\arm-gnu-toolchain-14.3.rel1-mingw-w64-i686-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H723xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -ID:/RoboMaster/RM-CUBEMX/3508_DM/Core/Inc -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Inc -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/CMSIS/Device/ST/STM32H7xx/Include -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_spi.c.obj -c D:\\RoboMaster\\RM-CUBEMX\\3508_DM\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_spi.c",
+  "file": "D:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_spi.c",
+  "output": "D:/RoboMaster/RM-CUBEMX/3508_DM/build/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_spi.c.obj"
+},
+{
+  "directory": "D:/RoboMaster/RM-CUBEMX/3508_DM/build",
+  "command": "D:\\MY_SOFT\\Toolchain\\gcc\\arm-gnu-toolchain-14.3.rel1-mingw-w64-i686-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H723xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -ID:/RoboMaster/RM-CUBEMX/3508_DM/Core/Inc -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Inc -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/CMSIS/Device/ST/STM32H7xx/Include -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_spi_ex.c.obj -c D:\\RoboMaster\\RM-CUBEMX\\3508_DM\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_spi_ex.c",
+  "file": "D:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_spi_ex.c",
+  "output": "D:/RoboMaster/RM-CUBEMX/3508_DM/build/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_spi_ex.c.obj"
+},
+{
+  "directory": "D:/RoboMaster/RM-CUBEMX/3508_DM/build",
+  "command": "D:\\MY_SOFT\\Toolchain\\gcc\\arm-gnu-toolchain-14.3.rel1-mingw-w64-i686-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H723xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -ID:/RoboMaster/RM-CUBEMX/3508_DM/Core/Inc -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Inc -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/CMSIS/Device/ST/STM32H7xx/Include -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_tim.c.obj -c D:\\RoboMaster\\RM-CUBEMX\\3508_DM\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_tim.c",
+  "file": "D:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim.c",
+  "output": "D:/RoboMaster/RM-CUBEMX/3508_DM/build/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim.c.obj"
+},
+{
+  "directory": "D:/RoboMaster/RM-CUBEMX/3508_DM/build",
+  "command": "D:\\MY_SOFT\\Toolchain\\gcc\\arm-gnu-toolchain-14.3.rel1-mingw-w64-i686-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H723xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -ID:/RoboMaster/RM-CUBEMX/3508_DM/Core/Inc -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Inc -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/CMSIS/Device/ST/STM32H7xx/Include -ID:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_tim_ex.c.obj -c D:\\RoboMaster\\RM-CUBEMX\\3508_DM\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_tim_ex.c",
+  "file": "D:/RoboMaster/RM-CUBEMX/3508_DM/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim_ex.c",
+  "output": "D:/RoboMaster/RM-CUBEMX/3508_DM/build/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim_ex.c.obj"
+}
+]
